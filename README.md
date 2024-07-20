@@ -22,6 +22,7 @@ Frontend: HTML, Bootstrap, JavaScript
 Database: PhpMyAdmin
 
 ## Usage
+
 01. Add a Student:
 Navigate to the 'Add Student' page.
 Fill in the required fields.
