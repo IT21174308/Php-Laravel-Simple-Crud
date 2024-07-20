@@ -14,7 +14,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) application for man
 Add Student: Allows you to add new student records.</br>
 View Students: Displays a list of all students.</br>
 Update Student: Enables editing of existing student records.</br>
-View Student by ID: Shows detailed information for a specific student.</br?
+View Student by ID: Shows detailed information for a specific student.</br>
 
 <h3><b>Technologies Used</b></h3>
 Backend: PHP Laravel</br>
