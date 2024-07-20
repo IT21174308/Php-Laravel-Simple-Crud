@@ -10,35 +10,35 @@
 ## Simple CRUD for Student Information management.
 This project is a simple CRUD (Create, Read, Update, Delete) application for managing student information. It is built using PHP Laravel for the backend, Bootstrap for the frontend styling, and JavaScript for interactivity.
 
-## Features
-Add Student: Allows you to add new student records.
-View Students: Displays a list of all students.
-Update Student: Enables editing of existing student records.
-View Student by ID: Shows detailed information for a specific student.
+<h3><b>Features</b></h3> 
+Add Student: Allows you to add new student records.</br>
+View Students: Displays a list of all students.</br>
+Update Student: Enables editing of existing student records.</br>
+View Student by ID: Shows detailed information for a specific student.</br?
 
-## Technologies Used
-Backend: PHP Laravel
-Frontend: HTML, Bootstrap, JavaScript
-Database: PhpMyAdmin
+<h3><b>Technologies Used</b></h3>
+Backend: PHP Laravel</br>
+Frontend: HTML, Bootstrap, JavaScript</br>
+Database: PhpMyAdmin</br>
 
-## Usage
+<h3><b>Usage</b></h3></b>
 
-01. Add a Student:
-Navigate to the 'Add Student' page.
-Fill in the required fields.
-Submit the form to add the student.
+<p><b>01. Add a Student:</b></p></br>
+Navigate to the 'Add Student' page.</br>
+Fill in the required fields.</br>
+Submit the form to add the student.</br>
 
-02.View Students:
-Navigate to the 'Students Details' page.
-A list of all students will be displayed.
-You can view, edit or delete a student from this list.
+<p><b>02.View Students:</b></p></br>
+Navigate to the 'Students Details' page.</br>
+A list of all students will be displayed.</br>
+You can view, edit or delete a student from this list.</br>
 
-03.Update a Student:
-Click on the 'Edit' icon in the action column in the list.
-Update the necessary information and submit the form.
+<p><b>03.Update a Student:</b></p></br>
+Click on the 'Edit' icon in the action column in the list.</br>
+Update the necessary information and submit the form.</br>
 
-04.View Student by ID:
-Navigate to the 'View Student Profile' page.
+<p><b>04.View Student by ID:</b></p></br>
+Navigate to the 'View Student Profile' page.</br>
 Enter the student ID to view detailed information about that student.
 
 
