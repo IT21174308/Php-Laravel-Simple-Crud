@@ -23,21 +23,21 @@ Database: PhpMyAdmin</br>
 
 <h3><b>Usage</b></h3></b>
 
-<p><b>01. Add a Student:</b></p>
+<b>01. Add a Student:</b>
 Navigate to the 'Add Student' page.</br>
 Fill in the required fields.</br>
 Submit the form to add the student.</br>
 
-<p><b>02.View Students:</b></p>
+<b>02.View Students:</b>
 Navigate to the 'Students Details' page.</br>
 A list of all students will be displayed.</br>
 You can view, edit or delete a student from this list.</br>
 
-<p><b>03.Update a Student:</b></p>
+<b>03.Update a Student:</b>
 Click on the 'Edit' icon in the action column in the list.</br>
 Update the necessary information and submit the form.</br>
 
-<p><b>04.View Student by ID:</b></p>
+<b>04.View Student by ID:</b>
 Navigate to the 'View Student Profile' page.</br>
 Enter the student ID to view detailed information about that student.
 
