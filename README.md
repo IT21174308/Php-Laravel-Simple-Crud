@@ -13,8 +13,9 @@ This project is a simple CRUD (Create, Read, Update, Delete) application for man
 <h3><b>Features</b></h3> 
 Add Student: Allows you to add new student records.</br>
 View Students: Displays a list of all students.</br>
-Update Student: Enables editing of existing student records.</br>
 View Student by ID: Shows detailed information for a specific student.</br>
+Update Student: Enables editing of existing student records.</br>
+Delete Student: Delee a specific student record.</b>
 
 <h3><b>Technologies Used</b></h3>
 Backend: PHP Laravel</br>
@@ -33,12 +34,18 @@ Navigate to the 'Students Details' page.</br>
 A list of all students will be displayed.</br>
 You can view, edit or delete a student from this list.</br>
 
-<b>03.Update a Student:</b></br>
+<b>03.View Student by ID:</b></br>
+Click on the 'View' icon in the action column in the list.</br>
+Navigate to the 'View Student Profile' page.</br>
+View detailed information about that student.</br>
+
+<b>04.Update a Student:</b></br>
 Click on the 'Edit' icon in the action column in the list.</br>
+Navigate to the 'Edit Student Profile' page.</br>
 Update the necessary information and submit the form.</br>
 
-<b>04.View Student by ID:</b></br>
-Navigate to the 'View Student Profile' page.</br>
-Enter the student ID to view detailed information about that student.
+<b>05.Delete a Student:</b></br>
+Click on the 'Delete' icon in the action column in the list.</br>
+Click on confirm button to delete a student.
 
 
